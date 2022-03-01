@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliarabat
 - 👀 I’m interested in developing web & mobile apps
-- 🌱 I’m currently learning symfony
-- 💞️ I’m looking to collaborate on establishing a new startup
+- 🌱 I’m currently a PhD Student
+- 💞️ I’m looking for an opportunity to work on exciting projects
 - 📫 How to reach me by mail arabat50@gmail.com
 
 <!---
